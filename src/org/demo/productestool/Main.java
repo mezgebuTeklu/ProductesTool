@@ -5,6 +5,7 @@ public class Main {
 	
 		System.out.println("Hello Client A");
 		System.out.println("Hello Client B");
+		System.out.println("Hello Client C");
 	}
 
 	public static void main(String[] args) {
